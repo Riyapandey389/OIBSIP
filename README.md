@@ -6,7 +6,7 @@ This repository contains four machine learning projects completed as part of the
 📂 Repository Structure
 
 OIBSIP
-│── Card_Prediction/
+│── Car_price_Prediction/
 │   ├── dataset/          # Contains data files used for training & testing
 │   ├── models/           # Saved machine learning models
 │   ├── notebooks/        # Jupyter Notebooks for step-by-step execution (.ipynb)
